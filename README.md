@@ -1,4 +1,4 @@
-# yeest.xyz - RAG-Powered Chat Assistant
+# vellum.xyz - RAG-Powered Chat Assistant
 
 A modern, text-only RAG (Retrieval-Augmented Generation) powered chat assistant that provides real-time information from Wikipedia, news sources, and Reddit discussions. Built with LangChain, GROQ LLM, and comprehensive professional features including memory management, cost monitoring, and automated evaluation.
 
